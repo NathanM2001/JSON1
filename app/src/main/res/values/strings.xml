@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JSON1</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="company_url">https://api.jsonbin.io/b/5f7ba16c302a837e95753073</string>
+</resources>
